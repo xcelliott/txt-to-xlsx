@@ -3,7 +3,7 @@
 The prupose of this program is to convert a text file to a formatted Excel document.
 
 First, click the 'Choose File' button to open File Explorer
-From here, navigate to the .txt file that you would loike to parse
+From here, navigate to the .txt file that you would like to parse
 Select and open the .txt file. 
 The 'File Path' will be shown on the application window.
 Click 'Parse File'
