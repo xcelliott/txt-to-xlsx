@@ -1,6 +1,6 @@
 # txt-to-xlsx
 
-The prupose of this program is to convert a text file to a formatted Excel document.
+The purpose of this program is to convert a text file to a formatted Excel document.
 
 First, click the 'Choose File' button to open File Explorer
 From here, navigate to the .txt file that you would like to parse
